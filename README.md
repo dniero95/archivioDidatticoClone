@@ -1,3 +1,2 @@
 # archivioDidatticoClone
-Clone del sito archivio didatta del Prof. Massimo Gobbino dell'università di Pisa fatto come esercitazione su HTML e CSS
-È possibile visualizzare il sito originale a questo indirizzo: http://users.dma.unipi.it/gobbino/Home_Page/ArchivioDidattico.html
+This is a clone of the Web Site http://users.dma.unipi.it/gobbino/Home_Page/ArchivioDidattico.html used by Prof. Massimo Gobbino of Pisa university. I made this clone as an exercice to experiment with HTML and CSS.
